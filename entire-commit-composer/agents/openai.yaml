@@ -1,0 +1,4 @@
+interface:
+  display_name: "Entire Commit Composer"
+  short_description: "Compose grouped commits from Entire context"
+  default_prompt: "Use $entire-commit-composer to review this branch and split it into grouped Conventional Commits."

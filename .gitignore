@@ -1,0 +1,14 @@
+.DS_Store
+*.tmp
+*.swp
+.skill-lock.json
+*/.git/
+
+# Keep local credentials and environment files out of version control.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials
+credentials.*
