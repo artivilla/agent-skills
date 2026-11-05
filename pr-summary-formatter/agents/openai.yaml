@@ -1,0 +1,4 @@
+interface:
+  display_name: "PR Summary Formatter"
+  short_description: "Generate outpaint-formatted PR summaries from commit history."
+  default_prompt: "Write a PR summary in the outpaint structured format from the selected commits."
